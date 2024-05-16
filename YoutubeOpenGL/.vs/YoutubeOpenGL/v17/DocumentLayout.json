@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\GLP\\YoutubeOpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\std.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:std.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|C:\\GLP\\YoutubeOpenGL\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39BC8A1-9DE1-46C2-BC8B-38CD10B7C8BA}|YoutubeOpenGL.vcxproj|solutionrelative:Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "std.cpp",
-              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\std.cpp",
-              "RelativeDocumentMoniker": "std.cpp",
-              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\std.cpp",
-              "RelativeToolTip": "std.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\Camera.cpp",
+              "RelativeDocumentMoniker": "Camera.cpp",
+              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\Camera.cpp",
+              "RelativeToolTip": "Camera.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-13T22:37:17.078Z",
+              "WhenOpened": "2024-05-15T23:55:27.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "shaderClass.cpp",
-              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\shaderClass.cpp",
-              "RelativeDocumentMoniker": "shaderClass.cpp",
-              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\shaderClass.cpp",
-              "RelativeToolTip": "shaderClass.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-13T22:25:25.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VAO.cpp",
-              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\VAO.cpp",
-              "RelativeDocumentMoniker": "VAO.cpp",
-              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\VAO.cpp",
-              "RelativeToolTip": "VAO.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-13T21:44:53.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VAO.h",
-              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\VAO.h",
-              "RelativeDocumentMoniker": "VAO.h",
-              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\VAO.h",
-              "RelativeToolTip": "VAO.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\Camera.h",
+              "RelativeDocumentMoniker": "Camera.h",
+              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\Camera.h",
+              "RelativeToolTip": "Camera.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-13T21:41:50.601Z",
+              "WhenOpened": "2024-05-15T23:53:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "default.vert",
+              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T22:40:58.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "default.frag",
-              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\default.frag",
-              "RelativeDocumentMoniker": "default.frag",
-              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\default.frag",
-              "RelativeToolTip": "default.frag",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-13T21:40:38.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\GLP\\YoutubeOpenGL\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAFUAAAAAAAAAAADwv2sAAAAaAAAA",
+              "ViewState": "AQIAAA8AAACAMjMzMzMtwBoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-29T20:12:13.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "shaderClass.h",
-              "DocumentMoniker": "C:\\GLP\\YoutubeOpenGL\\shaderClass.h",
-              "RelativeDocumentMoniker": "shaderClass.h",
-              "ToolTip": "C:\\GLP\\YoutubeOpenGL\\shaderClass.h",
-              "RelativeToolTip": "shaderClass.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-13T22:26:38.97Z",
               "EditorCaption": ""
             }
           ]
